@@ -1,15 +1,15 @@
 # Contributing to Kong :monkey_face:
 
-Hello, and welcome! Whether you are looking for help, trying to report a bug,
+Hello and welcome! Whether you are looking for help, trying to report a bug,
 thinking about getting involved in the project, or about to submit a patch, this
 document is for you! It intends to be both an entry point for newcomers to
-the community (with various technical backgrounds), and a guide/reference for
+the community (with various technical backgrounds) and a guide/reference for
 contributors and maintainers.
 
-Please have a look at our [Community Pledge](./COMMUNITY_PLEDGE.md) to
-understand how we work with our open-source contributors!
+Please take a look at our [Community Pledge](./COMMUNITY_PLEDGE.md) to
+understand how we work with our open-source contributors.
 
-Consult the Table of Contents below, and jump to the desired section.
+Consult the Table of Contents below and jump to the desired section.
 
 # Table of Contents
 
